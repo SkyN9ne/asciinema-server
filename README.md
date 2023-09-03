@@ -1,4 +1,4 @@
-# asciinema web app
+# Asciinema Web App
 
 asciinema is a free and open source solution for recording terminal sessions
 and sharing them on the web.
