@@ -14,7 +14,7 @@
     "@babel/preset-env": "^7.20.2",
     "asciinema-player": "next",
     "babel-loader": "^8.3.0",
-    "bootstrap": "^4.5.0",
+    "bootstrap": "^5.0.0",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.7.3",
     "css-minimizer-webpack-plugin": "^4.2.2",
@@ -27,7 +27,7 @@
     "popper.js": "^1.14.3",
     "sass": "^1.59.2",
     "sass-loader": "^13.2.0",
-    "webpack": "^5.76.1",
+    "webpack": "^5.94.0",
     "webpack-cli": "^5.0.1"
   }
 }
